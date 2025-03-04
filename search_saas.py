@@ -6,8 +6,8 @@ import urllib.parse
 # ---------------------------------------------------------------------
 # CONFIGURATION
 # ---------------------------------------------------------------------
-API_KEY = "AIzaSyAyEjO9UyPXwVvlDrCcDQvQXrXNC0q4GAc"  # Replace with your real API key
-CSE_ID = "d0e4bfea251534791"                   # The cx from your custom search engine link
+API_KEY = "API KEY"  # Replace with your real API key
+CSE_ID = "custom search engine link"                   # The cx from your custom search engine link
 
 # A large set of keywords to find B2B SaaS directories/lists in US & Canada
 QUERY_KEYWORDS = [
